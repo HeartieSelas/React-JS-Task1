@@ -58,6 +58,7 @@ header .nav-btn{
         background-color: #29335C;
         transition: 1s;
         transform: translateY(-100vh);
+        z-index: 1;
     }
 
     header .responsive_nav{
